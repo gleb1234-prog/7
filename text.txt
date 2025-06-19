@@ -1,0 +1,6 @@
+src/
+├── locales/
+│   ├── en.json       # Английские переводы
+│   └── ru.json       # Русские переводы
+├── App.vue
+└── main.js
